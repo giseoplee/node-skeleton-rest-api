@@ -1,0 +1,10 @@
+node_modules/*
+*/config/
+config/env/development.js
+package-lock.json
+
+*/node_modules/*
+*/package-lock.json
+*/.idea
+*/npm-debug.log
+*/.DS_Store
